@@ -34,7 +34,7 @@ Participo ativamente no desenvolvimento do **BigLinux** através do projeto **Bi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=big-comm&repo=big-game-config&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 </a>
 
-<a href="https://github.com/big-comm/kanri">
+<a href="https://github.com/big-comm/comm-gnome-theme-everforest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=big-comm&repo=kanri&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 </a>
 <a href="https://github.com/big-comm/pcloud-drive">
