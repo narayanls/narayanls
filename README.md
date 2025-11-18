@@ -21,24 +21,24 @@ Participo ativamente no desenvolvimento do **BigLinux** através do projeto **Bi
 <div align="center">
 
 <a href="https://github.com/big-comm/ashyterm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=big-comm&repo=ashyterm&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=big-comm&repo=ashyterm&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 </a>
 <a href="https://github.com/big-comm/tac-writer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=big-comm&repo=tac-writer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=big-comm&repo=tac-writer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 </a>
 
 <a href="https://github.com/biglinux/big-video-converter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biglinux&repo=big-video-converter&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biglinux&repo=big-video-converter&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 </a>
 <a href="https://github.com/big-comm/big-game-config">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=big-comm&repo=big-game-config&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=big-comm&repo=big-game-config&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 </a>
 
-<a href="https://github.com/big-comm/comm-gnome-theme-everforest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=big-comm&repo=kanri&theme=gruvbox&hide_border=true&bg_color=1d2021" />
-</a>
 <a href="https://github.com/big-comm/pcloud-drive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=big-comm&repo=pcloud-drive&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=big-comm&repo=pcloud-drive&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+</a>
+<a href="https://github.com/big-comm/comm-gnome-theme-everforest">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=big-comm&repo=comm-gnome-theme-everforest&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 </a>
 
 </div>
