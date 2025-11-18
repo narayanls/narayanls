@@ -64,7 +64,6 @@ Participo ativamente no desenvolvimento do **BigLinux** através do projeto **Bi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narayanls&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&bg_color=1d2021)
 )
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narayanls&layout=compact&theme=gruvbox&hide_border=true&bg_color=1d2021)
 
 </div>
 
