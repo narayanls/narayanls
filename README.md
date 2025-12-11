@@ -12,7 +12,7 @@ Sou uma entusiasta em Linux com uma enorme curiosidade sobre o mundo e tecnologi
 
 Aprendi **fuçando**, aprendi **quebrando** e aprendi me aproximando de tantos outros curiosos por aí, que querem também construir suas próprias coisas e compartilhar com os demais.
 
-Participo ativamente no desenvolvimento do **BigLinux** através do projeto **Big Community**, ainda que não seja, de fato, uma programadora. Gosto de **caçar bugs e exterminá-los**, criar novos apps e pacotes de temas para deixar nosso desktop lindo como a moça do brinco de pérola.
+Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma programadora. Gosto de **caçar bugs e exterminá-los**, criar novos apps e pacotes de temas para deixar nosso desktop lindo como a moça do brinco de pérola.
 
 ---
 
