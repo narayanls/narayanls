@@ -1,7 +1,7 @@
 # 👋 Narayan Lima da Silva
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Linux+Enthusiast;Big+Community+Developer;Bug+Hunter;Theme+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Linux+Enthusiast;Bug+Hunter;" alt="Typing SVG" />
 </div>
 
 ---
