@@ -20,9 +20,7 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
 
 <div align="center">
 
-<a href="https://github.com/big-comm/ashyterm">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=big-comm&repo=ashyterm&theme=gruvbox&hide_border=true&bg_color=1d2021" />
-</a>
+
 <a href="https://github.com/big-comm/tac-writer">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=big-comm&repo=tac-writer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 </a>
