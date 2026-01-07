@@ -21,16 +21,12 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
 <div align="center">
 
 
-<a href="https://github.com/big-comm/tac-writer">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=big-comm&repo=tac-writer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+<a href="https://github.com/narayanls/tac-writer">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=narayanls&repo=tac-writer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 </a>
 
-<a href="https://github.com/big-comm/big-game-config">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=big-comm&repo=big-game-config&theme=gruvbox&hide_border=true&bg_color=1d2021" />
-</a>
-
-<a href="https://github.com/big-comm/pcloud-drive">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=big-comm&repo=pcloud-drive&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+<a href="https://github.com/big-comm/pcloud-drive](https://github.com/narayanls/swimtothelight">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=narayanls&repo=swimtothelight&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 </a>
 <a href="https://github.com/big-comm/comm-gnome-theme-everforest">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=big-comm&repo=comm-gnome-theme-everforest&theme=gruvbox&hide_border=true&bg_color=1d2021" />
