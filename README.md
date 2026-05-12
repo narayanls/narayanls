@@ -29,12 +29,8 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=narayanls&repo=steam-pass&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 </a>
 
-<a href="https://github.com/big-comm/comm-gnome-theme-everforest">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=big-comm&repo=comm-gnome-theme-everforest&theme=gruvbox&hide_border=true&bg_color=1d2021" />
-</a>
-
-<a href="https://github.com/jyahyah/tac-installer">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jyahyah&repo=tac-installer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+<a href="https://github.com/narayanls/tac-installer">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=narayanls&repo=tac-installer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 
 </div>
 
