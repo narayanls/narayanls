@@ -32,6 +32,9 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
 <a href="https://github.com/narayanls/tac-installer">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=narayanls&repo=tac-installer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 
+  <a href="https://github.com/narayanls/por-ai">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=narayanls&repo=por-ai&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+
 </div>
 
 ---
