@@ -1,4 +1,3 @@
-
 # 👋 Narayan Lima da Silva
 
 <div align="center">
@@ -65,7 +64,7 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
 
 ---
 
-## ️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -77,11 +76,11 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
 
 ---
 
-##  Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narayanls&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/narayanls)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=narayanls&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/narayanls)
 
 </div>
 
