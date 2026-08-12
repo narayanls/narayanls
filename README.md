@@ -1,3 +1,4 @@
+
 # 👋 Narayan Lima da Silva
 
 <div align="center">
@@ -18,34 +19,53 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
-
-
-<a href="https://github.com/narayanls/tac-writer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narayanls&repo=tac-writer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
-</a>
-
-<a href="https://github.com/narayanls/steam-pass">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narayanls&repo=steam-pass&theme=gruvbox&hide_border=true&bg_color=1d2021" />
-</a>
-
-<a href="https://github.com/narayanls/tac-installer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narayanls&repo=tac-installer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
-</a>
-
-<a href="https://github.com/narayanls/por-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narayanls&repo=por-ai&theme=gruvbox&hide_border=true&bg_color=1d2021" />
-</a>
-
-<a href="https://github.com/narayanls/wallpaper-schedule">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narayanls&repo=wallpaper-schedule&theme=gruvbox&hide_border=true&bg_color=1d2021" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/narayanls/tac-writer">
+        <strong>tac-writer</strong>
+      </a>
+      <br/>
+      Assistente de escrita acadêmica/formal
+    </td>
+    <td>
+      <a href="https://github.com/narayanls/steam-pass">
+        <strong>steam-pass</strong>
+      </a>
+      <br/>
+      Gerenciador de contas para Steam
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/narayanls/tac-installer">
+        <strong>tac-installer</strong>
+      </a>
+      <br/>
+      Instalador universal Linux para o Tac Writer
+    </td>
+    <td>
+      <a href="https://github.com/narayanls/por-ai">
+        <strong>por-ai</strong>
+      </a>
+      <br/>
+      Converse com modelos do OpenRouter localmente
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/narayanls/wallpaper-schedule">
+        <strong>wallpaper-schedule</strong>
+      </a>
+      <br/>
+      Agendador de wallpapers para Gnome
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 <div align="center">
 
@@ -57,11 +77,11 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narayanls&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&bg_color=1d2021)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narayanls&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/narayanls)
 
 </div>
 
@@ -82,4 +102,3 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
 <div align="center">
   <i>🐧 Fuçando, quebrando e compartilhando conhecimento 🐧</i>
 </div>
-
