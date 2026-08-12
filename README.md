@@ -22,21 +22,24 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
 
 
 <a href="https://github.com/narayanls/tac-writer">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=narayanls&repo=tac-writer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narayanls&repo=tac-writer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 </a>
 
 <a href="https://github.com/narayanls/steam-pass">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=narayanls&repo=steam-pass&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narayanls&repo=steam-pass&theme=gruvbox&hide_border=true&bg_color=1d2021" />
 </a>
 
 <a href="https://github.com/narayanls/tac-installer">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=narayanls&repo=tac-installer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narayanls&repo=tac-installer&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+</a>
 
-  <a href="https://github.com/narayanls/por-ai">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=narayanls&repo=por-ai&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+<a href="https://github.com/narayanls/por-ai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narayanls&repo=por-ai&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+</a>
 
-  <a href="https://github.com/narayanls/wallpaper-schedule">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=narayanls&repo=wallpaper-schedule&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+<a href="https://github.com/narayanls/wallpaper-schedule">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narayanls&repo=wallpaper-schedule&theme=gruvbox&hide_border=true&bg_color=1d2021" />
+</a>
 
 </div>
 
@@ -59,8 +62,6 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narayanls&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&bg_color=1d2021)
-)
-
 
 </div>
 
