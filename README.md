@@ -82,3 +82,4 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
 <div align="center">
   <i>🐧 Fuçando, quebrando e compartilhando conhecimento 🐧</i>
 </div>
+
