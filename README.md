@@ -34,14 +34,21 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
       <br/>
       Gerenciador de contas para Steam
     </td>
-  </tr>
-  <tr>
-    <td>
+      <td>
       <a href="https://github.com/narayanls/tac-installer">
         <strong>tac-installer</strong>
       </a>
       <br/>
       Instalador universal Linux para o Tac Writer
+    </td>
+    <tr>
+    </tr>
+    <td>
+      <a href="https://github.com/narayanls/BR-dict">
+        <strong>BR-dict</strong>
+      </a>
+      <br/>
+      Dicionário de português do Brasil baseado no Wikcionário
     </td>
     <td>
       <a href="https://github.com/narayanls/por-ai">
@@ -50,14 +57,27 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
       <br/>
       Converse com modelos do OpenRouter localmente
     </td>
-  </tr>
+    <td>
+      <a href="https://github.com/narayanls/BR-voc">
+        <strong>BR-voc</strong>
+      </a>
+      <br/>
+      Consulta à grafia das palavras no VOLP
+    </td>
   <tr>
-    <td colspan="2">
+    <td>
       <a href="https://github.com/narayanls/wallpaper-schedule">
         <strong>wallpaper-schedule</strong>
       </a>
       <br/>
       Agendador de wallpapers para Gnome
+    </td>
+    <td>
+      <a href="https://github.com/narayanls/mouse-remapper">
+        <strong>Mouse-Remapper</strong>
+      </a>
+      <br/>
+      Create macros from keyboard to mouse buttons
     </td>
   </tr>
 </table>
