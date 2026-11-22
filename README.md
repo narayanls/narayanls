@@ -79,6 +79,13 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
       <br/>
       Create macros from keyboard to mouse buttons
     </td>
+    <td>
+      <a href="https://github.com/narayanls/msensor-tester">
+        <strong>MSensor Tester</strong>
+      </a>
+      <br/>
+      Create macros from keyboard to mouse buttons
+    </td>
   </tr>
 </table>
 
