@@ -84,7 +84,7 @@ Participo ativamente da comunidade Linux, ainda que não seja, de fato, uma prog
         <strong>MSensor Tester</strong>
       </a>
       <br/>
-      Create macros from keyboard to mouse buttons
+      Mouse sensor tracking and polling rate tester for Linux
     </td>
   </tr>
 </table>
